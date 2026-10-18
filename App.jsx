@@ -5,7 +5,7 @@ import {
   ArrowUpRight,
 } from 'lucide-react'
 
-import profileImage from './assets/chaweisan.jpg'
+import profileImage from './chaweisan.jpg'
 
 const profile = {
   name: 'Chaw Ei San',
